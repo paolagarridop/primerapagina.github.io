@@ -1,0 +1,37 @@
+body{
+    /* Comentario */
+    /* Fondo de color */
+   background-color: #7bbda1; 
+}
+h1{
+    /* Colo de letra */
+    color: #907071;
+}
+p{
+    /* Tamaño de letra */
+    font-size: 20px;
+}
+h3{
+    color: #e32551;
+}
+ /* Selector de clase */
+.genero {
+    color:indigo;
+}
+ /* Selector ed # */
+#imagenvaquera{
+     /* Medidas cm, mm, (px, em, rem, %) */
+    border-radius: 100px;
+    width: 300px;
+    /* Alto */
+    height: 200px;
+    border: dotted;
+    color:blueviolet;
+}
+.vaqueracaballo{
+    border-radius: 100px;
+    width: 300px;
+    height: 200px;
+    border: dotted;
+    color:rgb(226, 43, 208);
+}
